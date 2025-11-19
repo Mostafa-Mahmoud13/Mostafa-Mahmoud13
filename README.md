@@ -1,11 +1,41 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
-<p>Welcome to my GitHub profile! </br> I'm <b>Mostafa Mahmoud Abdelfatah</b>, a passionate <b>Backend Developer</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197618.png" width="13"/> <b>Egypt</b>. Specialized in building robust APIs, scalable backend systems, and database-driven applications.</p>
-🚀 Things I Code With
-<p> <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img alt=".NET Core" src="https://img.shields.io/badge/-.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img alt="ASP.NET" src="https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" /> <img alt="SQL Server" src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" /> <img alt="Entity Framework" src="https://img.shields.io/badge/-Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img alt="REST API" src="https://img.shields.io/badge/-REST_API-00ADD8?style=flat-square&logo=swagger&logoColor=white" /> <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img alt="Windows Forms" src="https://img.shields.io/badge/-Windows_Forms-0078D6?style=flat-square&logo=windows&logoColor=white" /> <img alt="Pentesting" src="https://img.shields.io/badge/-Pentesting-000000?style=flat-square&logo=kalilinux&logoColor=white" /> </p>
-📌 Featured Projects
-<table> <thead align="center"> <tr> <td><b>📦 Project</b></td> <td><b>⭐ Stars</b></td> <td><b>📚 Forks</b></td> <td><b>🛎 Issues</b></td> <td><b>📬 Pull Requests</b></td> </tr> </thead> <tbody> <tr> <td><b><a href="#">Airline Management System</a></b></td> <td><img src="https://img.shields.io/badge/stars-0-343b41?style=flat-square" /></td> <td><img src="https://img.shields.io/badge/forks-0-343b41?style=flat-square" /></td> <td><img src="https://img.shields.io/badge/issues-0-343b41?style=flat-square" /></td> <td><img src="https://img.shields.io/badge/PRs-0-343b41?style=flat-square" /></td> </tr> <tr> <td><b><a href="#">E-Commerce System (WinForms + SQL Server)</a></b></td> <td><img src="https://img.shields.io/badge/stars-0-343b41?style=flat-square" /></td> <td><img src="https://img.shields.io/badge/forks-0-343b41?style=flat-square" /></td> <td><img src="https://img.shields.io/badge/issues-0-343b41?style=flat-square" /></td> <td><img src="https://img.shields.io/badge/PRs-0-343b41?style=flat-square" /></td> </tr> </tbody> </table>
-📝 Latest Articles
-<ul> <li><b>🔐 Pentesting Basics for Developers</b><br/><i>A practical introduction to secure coding.</i></li> <li><b>🧱 Clean Architecture in .NET</b><br/><i>How to structure scalable backend systems.</i></li> <li><b>🛢 SQL Server Indexing Tips</b><br/><i>Improve query performance like a pro.</i></li> </ul>
-🌍 Where to find me
-<p> <a href="#" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="www.linkedin.com/in/mostafa-mahmoud-382b19265" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.facebook.com/profile.php?id=100024594654391" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> </p>
-<p align="center"> This <i>README</i> is proudly crafted by <b>Mostafa Mahmoud Abdelfatah</b> ❤️ </p>
+<h2 align="left">
+ <abc>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br>I'm Mostafa Mahmoud Abdelfatah, Backend Developer ⚡<br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
+
+---
+
+<h2 align="left">🛠️ Technologies & Tools I Use</h2>
+
+<p align="left">
+    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-original.svg" width="40"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></a>
+    <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40"/></a>
+</p>
+
+---
+
+<h2 align="left">👨🏻‍💻 About Me</h2>
+
+- 💻 Backend Developer specializing in **C#, ASP.NET Core, SQL Server**
+- 🛠️ Experience building **REST APIs**, **Authentication Systems**, **Management Systems**
+- 🧪 Interested in **Pentesting** and Web Security  
+- 🚀 Always learning, improving & experimenting with new backend technologies  
+- 🎯 Life Hack: *"Keep building, keep breaking, keep learning"*  
+- ⚡ Fun Fact: I enjoy turning complex logic into clean and scalable code
+
+---
+
+<h2 align="left">❤️ Let's Connect</h2>
+
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Mostafa-Mahmoud13)  
+[![LinkedIn](https://img.shields.io/badge/-Mostafa%20Mahmoud-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-mahmoud-382b19265)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100024594654391)
