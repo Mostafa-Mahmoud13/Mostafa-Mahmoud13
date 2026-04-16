@@ -1,8 +1,15 @@
+
 <div align="center">
-    <img width=300 src="./assets/main.gif"/>    
-    <br/>
-    <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+Mostafa!" alt="Typing SVG" /></a>
+
+<img width="300" src="https://github.com/user-attachments/assets/44393b55-a316-4b1a-9581-e29a1e8e9c34"/>
+   
+
+
+  <br/><br/>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=700&height=60&lines=Greetings%2C+I'm+Mostafa+Mahmoud!" />
+    </a>
+
 </div>
 
 <div align="center">
@@ -16,28 +23,40 @@
   </a>
 </div>
 
-<div align="center" justify-content="space-between">
-    <a href="./README-RU.md"><img src="https://img.shields.io/badge/README-RU-blue?color=eba0ac&labelColor=1C2325&style=for-the-badge"></a>
-	<a href="./README.md"><img src="https://img.shields.io/badge/README-ENG-blue?color=fab387&labelColor=fab387&style=for-the-badge"></a>
-</div>
-
-<div align="center">
-    <a href="https://user-badge.committers.top/russia/DIMFLIX"><img src="https://user-badge.committers.top/russia/DIMFLIX.svg"></a>
-</div>
 
 
 ---
 
 <h2 align="left"> Tech Stack</h2>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-</p>
+<p align="center">
 
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/>
+
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
+
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+
+  <!-- Security / Dev -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+</p>
 ---
 
 <h2 align="left"> About Me</h2>
@@ -57,12 +76,7 @@ Secure REST API with **QR-based attendance tracking**, JWT authentication, and r
 
 ---
 
-<h2 align="left">📫 Connect with Me</h2>
 
-<p align="left">
- 
-  
-</p>
 <h2 align="left"> GitHub Stats</h2>
 
 <p align="center">
