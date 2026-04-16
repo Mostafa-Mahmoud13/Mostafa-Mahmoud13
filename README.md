@@ -53,3 +53,24 @@ Secure REST API with **QR-based attendance tracking**, JWT authentication, and r
     <img src="https://img.shields.io/badge/LinkedIn-Mostafa%20Mahmoud-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+<h2 align="left">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Mahmoud13&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Mahmoud13&layout=compact&theme=tokyonight" height="170"/>
+</p>
+<h2 align="left">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mostafa-Mahmoud13&theme=tokyonight"/>
+</p>
+<h2 align="left">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-Mahmoud13&theme=tokyo-night"/>
+</p>
+<h2 align="left">🏆 Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mostafa-Mahmoud13&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
