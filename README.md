@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="300" src="https://github.com/user-attachments/assets/44393b55-a316-4b1a-9581-e29a1e8e9c34"/>
+<img width="100" src="https://github.com/user-attachments/assets/44393b55-a316-4b1a-9581-e29a1e8e9c34"/>
    
 
 
