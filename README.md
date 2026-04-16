@@ -1,20 +1,11 @@
-<h2 align="center">
-  Hi there! 
-  
-</h2>
-<h1 align="center">
-  I'm Mostafa Mahmoud
-</h1>
+<div align="center">
+    <img width=300 src="./assets/main.gif"/>    
+    <br/>
+    <br/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+Mostafa+Mahmoud!" alt="Typing SVG" /></a>
+</div>
 
-<p align="center">
-  Backend Developer | ASP.NET Core | SQL Server | REST APIs  
-  <br/>
-   Interested in Web Security & Pentesting
-</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
-</p>
 
 ---
 
