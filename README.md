@@ -73,10 +73,11 @@ Secure REST API with **QR-based attendance tracking**, JWT authentication, and r
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-Mahmoud13&theme=tokyo-night"/>
 </p>
+
 <h2 align="left">🏆 Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mostafa-Mahmoud13&theme=tokyonight&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mostafa-Mahmoud13&theme=darkhub&no-frame=true&margin-w=10" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Mahmoud13&layout=compact&theme=tokyonight" />
