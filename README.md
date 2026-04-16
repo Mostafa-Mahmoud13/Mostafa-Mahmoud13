@@ -23,7 +23,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-original.svg" width="40"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
 </p>
@@ -77,4 +77,7 @@ Secure REST API with **QR-based attendance tracking**, JWT authentication, and r
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mostafa-Mahmoud13&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Mahmoud13&layout=compact&theme=tokyonight" />
 </p>
