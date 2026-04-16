@@ -1,6 +1,10 @@
 <h2 align="center">
-  Hi there! 👋 I'm Mostafa Mahmoud
+  Hi there! 
+  
 </h2>
+<h1 align="center">
+  I'm Mostafa Mahmoud
+</h1>
 
 <p align="center">
   Backend Developer | ASP.NET Core | SQL Server | REST APIs  
